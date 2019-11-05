@@ -1,1 +1,4 @@
 Ini text ya, terus dimasukin ke folder project
+
+update:
+ini update yang kedua. di sini kita tulis apa aja yang penting ada update
